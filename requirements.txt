@@ -1,0 +1,6 @@
+streamlit
+flask
+pandas
+matplotlib
+fpdf
+requests
